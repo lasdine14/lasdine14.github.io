@@ -1,8 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "io.github.lasdine14.twa",
-    "sha256_cert_fingerprints": ["96:45:19:6A:D9:A7:ED:58:E1:60:18:9F:A0:11:CE:DC:CD:E6:32:37:E5:26:77:48:6B:A7:32:B5:BC:17:03:A5"]
-  }
-}]
