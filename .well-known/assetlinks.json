@@ -18,5 +18,15 @@
         "7C:38:57:7F:73:4E:CD:52:9F:24:1F:E7:91:51:75:55:C3:4B:22:B6:73:C6:F0:12:D8:A7:22:0E:9D:43:20:F8"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.lasdine14.tw",
+      "sha256_cert_fingerprints": [
+        "41:15:C6:19:F0:6E:B2:22:75:AB:4C:8C:A7:CA:61:47:F1:77:32:FB:23:94:7F:AA:C7:9C:36:D8:6A:6E:4D:78"
+      ]
+    }
   }
 ]
